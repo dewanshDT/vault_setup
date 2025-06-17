@@ -160,7 +160,4 @@ rclone config
 
 ## 🚀 Enjoy Your Private Vaultwarden!
 
-```
-
 Let me know when you want the `setup.sh` file again too — ready whenever you are.
-```
